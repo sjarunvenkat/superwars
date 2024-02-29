@@ -1,5 +1,13 @@
 # Lab | Superwars Stage 3
 
+## Output 
+
+![](https://github.com/sjarunvenkat/superwars/blob/main/lab-superwars-stage-3-main/SUPER%20WARS%20STAGE%203%20OUTPUT.png)
+
+
+
+
+# Instructions
 Well, in case you forgot the story line, then here it is.
 
 Dustin and Lucus are best friends. They spend their weekends watching superhero series and playing superhero games. One Friday at school Mr.Hooper, their computer science faculty taught them HTML, CSS, and JavaScript. Dustin & Lucus realised they could build super cool super hero stuff using their knowledge.
