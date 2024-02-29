@@ -1,5 +1,13 @@
 # Lab | Superwars Stage 2
 
+## Output
+
+![](https://github.com/sjarunvenkat/superwars/blob/main/lab-superwars-stage-2-main/superwars%20stage2%20output.png)
+
+
+
+
+# Instructions
 Remember Superwars stage 1? However, here is a quick recap of things.
 
 Dustin and Lucus are best friends. They spend their weekends watching superhero series and playing superhero games. One Friday at school Mr.Hooper, their computer science faculty taught them HTML, CSS, and JavaScript. Dustin & Lucus realised they could build super cool super hero stuff using their knowledge.
